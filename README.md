@@ -5,7 +5,7 @@
 - 📺 You can see some of the shaders I've made here: https://www.shadertoy.com/user/Kainslow
 - 💻 My personal github account: https://github.com/KainSlow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jcancino21@utalca.alumnos.cl
+- 📫 How to reach me: jcancino21@alumnos.utalca.cl
 
 This profile will mainly be focused in University projects.
 I will post any other project in my personal account.
